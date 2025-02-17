@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="$USER_HOME$/anaconda3" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.12 (sftp://rayagao_gx@34.141.182.85:22/home/rayagao_gx/.virtualenvs/Health_Chatbot/bin/python)" project-jdk-type="Python SDK" />
+</project>

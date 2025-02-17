@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="rayagao_gx@34.141.182.85:22 agent (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="rayagao_gx@34.141.182.85:22 agent (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/rayagao_gx/Health_Chatbot" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
