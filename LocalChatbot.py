@@ -5,13 +5,15 @@ from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.llms import Ollama
 
-
-# Initialize local llama3 model from Ollama
-llm = Ollama(model="llama3")
+# Initialize local llama model from Ollama
+llm = Ollama(model="tinyllama")
 
 # Load Chroma vector store
 CHROMA_DB_PATH = "chroma_db"
-embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+embedding = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2",
+    model_kwargs={"device": "cpu"}
+)
 vectorstore = Chroma(persist_directory=CHROMA_DB_PATH, embedding_function=embedding)
 
 # Streamlit app configuration
@@ -51,7 +53,7 @@ for msg in st.session_state.messages:
         st.markdown(msg["content"])
 
 # Capture user input
-query = st.chat_input("Ask me anything about cancer or health...")
+query = st.chat_input("Ask me anything about cancer...")
 
 if query:
     # Add user's message to chat history
@@ -59,16 +61,16 @@ if query:
     with st.chat_message("user"):
         st.markdown(query)
 
-    # 1. Retrieve relevant documents using vector similarity
-    retrieved_docs = vectorstore.similarity_search(query, k=2)
+    # Retrieve relevant documents using vector similarity
+    retrieved_docs = vectorstore.similarity_search(query, k=3)
     context = "\n".join([doc.page_content for doc in retrieved_docs])
 
-    # 2. Build the prompt with retrieved context and selected style
+    # Build the prompt with retrieved context and selected style
     prompt = f"{style_prefix}\n\nContext:\n{context}\n\nQuestion:\n{query}\n\nAnswer:"
 
-    # 3. Generate response from the local llama3 model
+    # Generate response from the local model
     with st.chat_message("assistant"):
-        with st.spinner("Thinking..."):
+        with st.spinner("Analyzing your query and preparing a response…"):
             answer = llm.invoke(prompt)
             st.markdown(answer)
             # Add assistant's reply to chat history
@@ -82,14 +84,16 @@ if elapsed > 300:
 # Save chat history to local file
 if st.session_state.show_save_button:
     if st.button("💾 Save Chat History"):
-        os.makedirs("chat_logs", exist_ok=True)
-        filename = f"chat_logs/chat_{style}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+        # Define the full path to the chat_logs folder
+        base_path = os.path.join(os.path.expanduser("~"), "Desktop", "GraduationThesis", "chat_logs")
+        os.makedirs(base_path, exist_ok=True)
+        filename = os.path.join(base_path, f"chat_{style}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
         with open(filename, "w", encoding="utf-8") as f:
             for msg in st.session_state.messages:
                 f.write(f"{msg['role'].capitalize()}: {msg['content']}\n\n")
         st.success(f"✅ Saved to `{filename}`")
         st.warning(
-            "**This conversation was part of a scientific study.** "
+            "**Note: This conversation was part of a scientific study.** "
             "The chatbot’s responses are generated based on existing public health sources but **should not** be interpreted as personalized medical advice. "
             "If you have questions about your health, please consult a healthcare professional."
         )
