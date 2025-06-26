@@ -1,0 +1,63 @@
+{
+    "cancer_type": "Gallbladder Cancer",
+    "title": "Gallbladder Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/gallbladder",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Gallbladder cancer is a rare cancer that is usually diagnosed late due a to lack of early signs and symptoms. It is sometimes found when the gallbladder is checked for gallstones or removed. Explore the links on this page to learn more about gallbladder cancer treatment and clinical trials."
+        },
+        {
+            "section": "Paragraph",
+            "text": "NCI does not have PDQ evidence-based information about prevention of gallbladder cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "NCI does not have PDQ evidence-based information about screening for gallbladder cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/gallbladder-cancer/treatment"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Gallbladder Cancer": {
+            "cancer_type": "Gallbladder Cancer",
+            "title": "Treatment Clinical Trials for Gallbladder Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/gallbladder-cancer/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/gallbladder-cancer/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Gallbladder Cancer": {
+                    "cancer_type": "Gallbladder Cancer",
+                    "title": "Treatment Clinical Trials for Gallbladder Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/gallbladder-cancer/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/gallbladder-cancer/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

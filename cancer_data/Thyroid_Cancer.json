@@ -1,0 +1,59 @@
+{
+    "cancer_type": "Thyroid Cancer",
+    "title": "Thyroid Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/thyroid",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "There are four main types of thyroid cancer. These are papillary, follicular, medullary, and anaplastic. Papillary is the most common type. The four types differ in how aggressive they are. Thyroid cancer that is found at an early stage can often be treated successfully. Explore the links on this page to learn more about thyroid cancer treatment, screening, statistics, research, and clinical trials."
+        },
+        {
+            "section": "Paragraph",
+            "text": "NCI does not have PDQ evidence-based information about prevention of thyroid cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/thyroid-cancer/treatment"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Thyroid Cancer": {
+            "cancer_type": "Thyroid Cancer",
+            "title": "Treatment Clinical Trials for Thyroid Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/thyroid-cancer/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/thyroid-cancer/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Thyroid Cancer": {
+                    "cancer_type": "Thyroid Cancer",
+                    "title": "Treatment Clinical Trials for Thyroid Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/thyroid-cancer/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/thyroid-cancer/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "cancer_type": "Non-Hodgkin Lymphoma",
+    "title": "Lymphoma—Patient Version",
+    "url": "https://www.cancer.gov/types/lymphoma",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Lymphoma is a broad term for cancer that begins in cells of the lymph system. The two main types are Hodgkin lymphoma and non-Hodgkin lymphoma (NHL). Hodgkin lymphoma can often be cured. The prognosis of NHL depends on the specific type. Explore the links on this page to learn more about lymphoma treatment, research, and clinical trials."
+        },
+        {
+            "section": "Paragraph",
+            "text": "NCI does not have PDQ evidence-based information about prevention of lymphoma."
+        },
+        {
+            "section": "Paragraph",
+            "text": "NCI does not have PDQ evidence-based information about screening for lymphoma."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [],
+    "related_pages": {}
+}

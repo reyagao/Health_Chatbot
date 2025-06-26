@@ -1,0 +1,63 @@
+{
+    "cancer_type": "Pituitary Tumor",
+    "title": "Pituitary Tumors—Patient Version",
+    "url": "https://www.cancer.gov/types/pituitary",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Pituitary tumors are usually not cancer and are called pituitary adenomas. They grow slowly and do not spread. Rarely, pituitary tumors are cancer and they can spread to distant parts of the body. Explore the links on this page to learn more about pituitary tumor treatment and clinical trials."
+        },
+        {
+            "section": "Paragraph",
+            "text": "NCI does not have PDQ evidence-based information about prevention of pituitary tumors."
+        },
+        {
+            "section": "Paragraph",
+            "text": "NCI does not have PDQ evidence-based information about screening for pituitary tumors."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/pituitary-tumors"
+    ],
+    "related_pages": {
+        "Clinical Trials to Treat Pituitary Tumors": {
+            "cancer_type": "Pituitary Tumor",
+            "title": "Clinical Trials to Treat Pituitary Tumors",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/pituitary-tumors",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/pituitary-tumors#main-content"
+            ],
+            "related_pages": {
+                "Clinical Trials to Treat Pituitary Tumors": {
+                    "cancer_type": "Pituitary Tumor",
+                    "title": "Clinical Trials to Treat Pituitary Tumors",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/pituitary-tumors",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/pituitary-tumors#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

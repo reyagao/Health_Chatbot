@@ -1,0 +1,119 @@
+{
+    "cancer_type": "Prostate Cancer",
+    "title": "Prostate Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/prostate",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Prostate cancer is the most common cancer and the second leading cause of cancer death among men in the United States. Prostate cancer usually grows very slowly, and finding and treating it before symptoms occur may not improve men's health or help them live longer. Explore the links on this page to learn about prostate cancer treatment, prevention, screening, statistics, research, and more."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/prostate-cancer/treatment",
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/prostate-cancer/prevention",
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/prostate-cancer/screening"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Prostate Cancer": {
+            "cancer_type": "Prostate Cancer",
+            "title": "Treatment Clinical Trials for Prostate Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/prostate-cancer/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/prostate-cancer/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Prostate Cancer": {
+                    "cancer_type": "Prostate Cancer",
+                    "title": "Treatment Clinical Trials for Prostate Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/prostate-cancer/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/prostate-cancer/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        },
+        "Prevention Clinical Trials for Prostate Cancer": {
+            "cancer_type": "Prostate Cancer",
+            "title": "Prevention Clinical Trials for Prostate Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/prostate-cancer/prevention",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/prostate-cancer/prevention#main-content"
+            ],
+            "related_pages": {
+                "Prevention Clinical Trials for Prostate Cancer": {
+                    "cancer_type": "Prostate Cancer",
+                    "title": "Prevention Clinical Trials for Prostate Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/prostate-cancer/prevention",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/prostate-cancer/prevention#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        },
+        "Screening Clinical Trials for Prostate Cancer": {
+            "cancer_type": "Prostate Cancer",
+            "title": "Screening Clinical Trials for Prostate Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/prostate-cancer/screening",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/prostate-cancer/screening#main-content"
+            ],
+            "related_pages": {
+                "Screening Clinical Trials for Prostate Cancer": {
+                    "cancer_type": "Prostate Cancer",
+                    "title": "Screening Clinical Trials for Prostate Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/prostate-cancer/screening",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/prostate-cancer/screening#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

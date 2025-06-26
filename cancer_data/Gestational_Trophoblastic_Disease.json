@@ -1,0 +1,55 @@
+{
+    "cancer_type": "Gestational Trophoblastic Disease",
+    "title": "Gestational Trophoblastic Disease—Patient Version",
+    "url": "https://www.cancer.gov/types/gestational-trophoblastic",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Gestational trophoblastic disease (GTD) is a general term for rare tumors that form from the tissues surrounding fertilized egg. GTD is often found early and usually cured. Hydatidiform mole (HM) is the most common type of GTD. Explore the links on this page to learn more about GTD treatment and clinical trials."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/gestational-trophoblastic-disease/treatment"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Gestational Trophoblastic Tumor": {
+            "cancer_type": "Gestational Trophoblastic Disease",
+            "title": "Treatment Clinical Trials for Gestational Trophoblastic Tumor",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/gestational-trophoblastic-disease/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/gestational-trophoblastic-disease/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Gestational Trophoblastic Tumor": {
+                    "cancer_type": "Gestational Trophoblastic Disease",
+                    "title": "Treatment Clinical Trials for Gestational Trophoblastic Tumor",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/gestational-trophoblastic-disease/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/gestational-trophoblastic-disease/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

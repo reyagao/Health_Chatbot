@@ -1,0 +1,55 @@
+{
+    "cancer_type": "Parathyroid Cancer",
+    "title": "Parathyroid Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/parathyroid",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Parathyroid tumors are usually benign (not cancer) and are called adenomas. Parathyroid cancer is very rare. Having certain inherited disorders can increase the risk of parathyroid cancer. Explore the links on this page to learn more about parathyroid cancer treatment and clinical trials."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/parathyroid-cancer/treatment"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Parathyroid Gland Cancer": {
+            "cancer_type": "Parathyroid Cancer",
+            "title": "Treatment Clinical Trials for Parathyroid Gland Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/parathyroid-cancer/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/parathyroid-cancer/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Parathyroid Gland Cancer": {
+                    "cancer_type": "Parathyroid Cancer",
+                    "title": "Treatment Clinical Trials for Parathyroid Gland Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/parathyroid-cancer/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/parathyroid-cancer/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

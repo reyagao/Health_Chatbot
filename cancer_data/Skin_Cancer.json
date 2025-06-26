@@ -1,0 +1,397 @@
+{
+    "cancer_type": "Skin Cancer",
+    "title": "Skin Cancer (Including Melanoma)—Patient Version",
+    "url": "https://www.cancer.gov/types/skin",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Skin cancer is the most common type of cancer.  The main types of skin cancer are squamous cell carcinoma, basal cell carcinoma, and melanoma. Melanoma is much less common than the other types but much more likely to invade nearby tissue and spread to other parts of the body. Most deaths from skin cancer are caused by melanoma. Explore the links on this page to learn more about skin cancer prevention, screening, treatment, statistics, research, clinical trials, and more."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/skin-cancer/treatment",
+        "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin",
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/skin-cancer/prevention"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Non-Melanoma Skin Cancer": {
+            "cancer_type": "Skin Cancer",
+            "title": "Treatment Clinical Trials for Non-Melanoma Skin Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/skin-cancer/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/skin-cancer/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Non-Melanoma Skin Cancer": {
+                    "cancer_type": "Skin Cancer",
+                    "title": "Treatment Clinical Trials for Non-Melanoma Skin Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/skin-cancer/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/skin-cancer/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        },
+        "Skin Cancer in People with Darker Skin": {
+            "cancer_type": "Skin Cancer",
+            "title": "Skin Cancer in People with Darker Skin",
+            "url": "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "Do people with darker skin tones get skin cancer?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "How can people with dark skin get skin cancer?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "How can I find skin cancer early?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "What does skin cancer look like on people with darker skin?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "How can I protect myself from skin cancer?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Do people with darker skin tones get skin cancer?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Skin cancer can affect anyone, no matter the color of their skin"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Yes. Anyone can get skin cancer. It is more common among people with a light or fair skin tone. But skin cancer can affect anyone, no matter the color of their skin."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "How can people with dark skin get skin cancer?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Although dark skin does not burn in the sun as easily as fair skin, being in the sun can still damage your skin. Even people who don’t burn are at risk for skin cancer. Sunlight causes damage through certain types of ultraviolet, or UV, rays, called UVA and UVB."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Also, UV rays aren’t the only cause of skin cancer. There are other causes, such as certain medical conditions. In fact, skin cancer may be found in places on the body that are rarely or never exposed to the sun."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "It doesn’t matter if your skin is light, dark, or in between, you can get skin cancer."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "How can I find skin cancer early?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Talk with your doctor if you see any unusual changes on your skin that do not go away within one month."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "When skin cancer is found early, it can be treated more easily."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "What does skin cancer look like on people with darker skin?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "There are three main types of skin cancer: melanoma, squamous cell skin cancer, and basal cell skin cancer. Melanoma is the least common type of skin cancer but the most dangerous. People of any skin color can develop any of these skin cancers."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "The most common form of melanoma in people with dark skin is acral lentiginous melanoma. This form of melanoma occurs on the palms of the hands, the soles of the feet, and on fingers, toes, and nail beds."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "A change on the skin is the most common sign of skin cancer. This may be any new growth on the skin, a sore that doesn't heal, or a change in an old growth."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Here are some examples of skin cancer on dark skin:"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Basal cell skin cancer can look like a brown, glossy black, or tan bump with a rolled border. \nPhoto Credit: Hugh Gloster, MD"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Squamous cell skin cancer can be a firm bump, flat sore, scaly patch, or raised area on an old scar. It can be the same color as your skin, or pink, red, black, or brown. \nPhoto Credit: Hugh Gloster, MD"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Melanoma skin cancer can look like a dark (or black) bump. The bump may seem waxy or shiny."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "A skin cancer called acral lentiginous melanoma can look like a dark patch on your palm or the bottom of your foot. Or it can look like a dark band under your nail."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "If you notice a change on your skin, see your doctor. Don't wait until the change looks like the more advanced skin cancers in these photos."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "How can I protect myself from skin cancer?"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Have your doctor check your skin if you notice a change, especially one that is unusual or does not go away. Your doctor may take a sample of your skin to get a closer look at the cells."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Ask your doctor about your risk of skin cancer, if you should have regular skin checks, and if so, how often."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Besides your history of sun exposure and the tone of your skin, other factors may increase your risk of skin cancer."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Stay out of the sun as much as you can. Whenever possible, avoid exposure to the sun from 10 a.m. to 4 p.m. If you work or play outside:"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Don't use UVA or UVB tanning beds or sunlamps. You may hear that UVA tanning beds are safer, but this is not true."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "If you are concerned about being low in vitamin D from not being in the sun, talk with your doctor about supplements."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "If you would like to reproduce some or all of this content, see Reuse of NCI Information for guidance about copyright and permissions. In the case of permitted digital reproduction, please credit the National Cancer Institute as the source and link to the original NCI product using the original product's title; e.g., “Skin Cancer in People with Darker Skin was originally published by the National Cancer Institute.”"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#main-content",
+                "mailto:?subject=Information%20from%20the%20National%20Cancer%20Institute%20Web%20Site%20&body=I%20found%20this%20information%20on%20www.cancer.gov%20and%20I%27d%20like%20to%20share%20it%20with%20you:%20https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin%20%0D%0A%0D%0A%20NCI%27s%20Web%20site,%20www.cancer.gov,%20provides%20accurate,%20up-to-date,%20comprehensive%20cancer%20information%20from%20the%20U.S.%20government%27s%20principal%20agency%20for%20cancer%20research.%20If%20you%20have%20questions%20or%20need%20additional%20information,%20we%20invite%20you%20to%20contact%20NCI%27s%20LiveHelp%20instant%20messaging%20service%20at%20https://livehelp.cancer.gov,%20or%20call%20the%20NCI%27s%20Contact%20Center%201-800-4-CANCER%20(1-800-422-6237)%20(toll-free%20from%20the%20United%20States).",
+                "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#do-people-with-darker-skin-tones-get-skin-cancer",
+                "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#how-can-people-with-dark-skin-get-skin-cancer",
+                "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#how-can-i-find-skin-cancer-early",
+                "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#what-does-skin-cancer-look-like-on-people-with-darker-skin",
+                "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#how-can-i-protect-myself-from-skin-cancer",
+                "mailto:?subject=Information%20from%20the%20National%20Cancer%20Institute%20Web%20Site%20&body=I%20found%20this%20information%20on%20www.cancer.gov%20and%20I%27d%20like%20to%20share%20it%20with%20you:%20https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin%20%0D%0A%0D%0A%20NCI%27s%20Web%20site,%20www.cancer.gov,%20provides%20accurate,%20up-to-date,%20comprehensive%20cancer%20information%20from%20the%20U.S.%20government%27s%20principal%20agency%20for%20cancer%20research.%20If%20you%20have%20questions%20or%20need%20additional%20information,%20we%20invite%20you%20to%20contact%20NCI%27s%20LiveHelp%20instant%20messaging%20service%20at%20https://livehelp.cancer.gov,%20or%20call%20the%20NCI%27s%20Contact%20Center%201-800-4-CANCER%20(1-800-422-6237)%20(toll-free%20from%20the%20United%20States)."
+            ],
+            "related_pages": {
+                "Skin Cancer in People with Darker Skin": {
+                    "cancer_type": "Skin Cancer",
+                    "title": "Skin Cancer in People with Darker Skin",
+                    "url": "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "Do people with darker skin tones get skin cancer?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "How can people with dark skin get skin cancer?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "How can I find skin cancer early?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "What does skin cancer look like on people with darker skin?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "How can I protect myself from skin cancer?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Do people with darker skin tones get skin cancer?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Skin cancer can affect anyone, no matter the color of their skin"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Yes. Anyone can get skin cancer. It is more common among people with a light or fair skin tone. But skin cancer can affect anyone, no matter the color of their skin."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "How can people with dark skin get skin cancer?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Although dark skin does not burn in the sun as easily as fair skin, being in the sun can still damage your skin. Even people who don’t burn are at risk for skin cancer. Sunlight causes damage through certain types of ultraviolet, or UV, rays, called UVA and UVB."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Also, UV rays aren’t the only cause of skin cancer. There are other causes, such as certain medical conditions. In fact, skin cancer may be found in places on the body that are rarely or never exposed to the sun."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "It doesn’t matter if your skin is light, dark, or in between, you can get skin cancer."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "How can I find skin cancer early?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Talk with your doctor if you see any unusual changes on your skin that do not go away within one month."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "When skin cancer is found early, it can be treated more easily."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "What does skin cancer look like on people with darker skin?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "There are three main types of skin cancer: melanoma, squamous cell skin cancer, and basal cell skin cancer. Melanoma is the least common type of skin cancer but the most dangerous. People of any skin color can develop any of these skin cancers."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "The most common form of melanoma in people with dark skin is acral lentiginous melanoma. This form of melanoma occurs on the palms of the hands, the soles of the feet, and on fingers, toes, and nail beds."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "A change on the skin is the most common sign of skin cancer. This may be any new growth on the skin, a sore that doesn't heal, or a change in an old growth."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Here are some examples of skin cancer on dark skin:"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Basal cell skin cancer can look like a brown, glossy black, or tan bump with a rolled border. \nPhoto Credit: Hugh Gloster, MD"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Squamous cell skin cancer can be a firm bump, flat sore, scaly patch, or raised area on an old scar. It can be the same color as your skin, or pink, red, black, or brown. \nPhoto Credit: Hugh Gloster, MD"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Melanoma skin cancer can look like a dark (or black) bump. The bump may seem waxy or shiny."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "A skin cancer called acral lentiginous melanoma can look like a dark patch on your palm or the bottom of your foot. Or it can look like a dark band under your nail."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "If you notice a change on your skin, see your doctor. Don't wait until the change looks like the more advanced skin cancers in these photos."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "How can I protect myself from skin cancer?"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Have your doctor check your skin if you notice a change, especially one that is unusual or does not go away. Your doctor may take a sample of your skin to get a closer look at the cells."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Ask your doctor about your risk of skin cancer, if you should have regular skin checks, and if so, how often."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Besides your history of sun exposure and the tone of your skin, other factors may increase your risk of skin cancer."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Stay out of the sun as much as you can. Whenever possible, avoid exposure to the sun from 10 a.m. to 4 p.m. If you work or play outside:"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Don't use UVA or UVB tanning beds or sunlamps. You may hear that UVA tanning beds are safer, but this is not true."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "If you are concerned about being low in vitamin D from not being in the sun, talk with your doctor about supplements."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "If you would like to reproduce some or all of this content, see Reuse of NCI Information for guidance about copyright and permissions. In the case of permitted digital reproduction, please credit the National Cancer Institute as the source and link to the original NCI product using the original product's title; e.g., “Skin Cancer in People with Darker Skin was originally published by the National Cancer Institute.”"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#main-content",
+                        "mailto:?subject=Information%20from%20the%20National%20Cancer%20Institute%20Web%20Site%20&body=I%20found%20this%20information%20on%20www.cancer.gov%20and%20I%27d%20like%20to%20share%20it%20with%20you:%20https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin%20%0D%0A%0D%0A%20NCI%27s%20Web%20site,%20www.cancer.gov,%20provides%20accurate,%20up-to-date,%20comprehensive%20cancer%20information%20from%20the%20U.S.%20government%27s%20principal%20agency%20for%20cancer%20research.%20If%20you%20have%20questions%20or%20need%20additional%20information,%20we%20invite%20you%20to%20contact%20NCI%27s%20LiveHelp%20instant%20messaging%20service%20at%20https://livehelp.cancer.gov,%20or%20call%20the%20NCI%27s%20Contact%20Center%201-800-4-CANCER%20(1-800-422-6237)%20(toll-free%20from%20the%20United%20States).",
+                        "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#do-people-with-darker-skin-tones-get-skin-cancer",
+                        "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#how-can-people-with-dark-skin-get-skin-cancer",
+                        "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#how-can-i-find-skin-cancer-early",
+                        "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#what-does-skin-cancer-look-like-on-people-with-darker-skin",
+                        "https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin#how-can-i-protect-myself-from-skin-cancer",
+                        "mailto:?subject=Information%20from%20the%20National%20Cancer%20Institute%20Web%20Site%20&body=I%20found%20this%20information%20on%20www.cancer.gov%20and%20I%27d%20like%20to%20share%20it%20with%20you:%20https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin%20%0D%0A%0D%0A%20NCI%27s%20Web%20site,%20www.cancer.gov,%20provides%20accurate,%20up-to-date,%20comprehensive%20cancer%20information%20from%20the%20U.S.%20government%27s%20principal%20agency%20for%20cancer%20research.%20If%20you%20have%20questions%20or%20need%20additional%20information,%20we%20invite%20you%20to%20contact%20NCI%27s%20LiveHelp%20instant%20messaging%20service%20at%20https://livehelp.cancer.gov,%20or%20call%20the%20NCI%27s%20Contact%20Center%201-800-4-CANCER%20(1-800-422-6237)%20(toll-free%20from%20the%20United%20States)."
+                    ],
+                    "related_pages": {}
+                }
+            }
+        },
+        "Prevention Clinical Trials for Non-Melanoma Skin Cancer": {
+            "cancer_type": "Skin Cancer",
+            "title": "Prevention Clinical Trials for Non-Melanoma Skin Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/skin-cancer/prevention",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/skin-cancer/prevention#main-content"
+            ],
+            "related_pages": {
+                "Prevention Clinical Trials for Non-Melanoma Skin Cancer": {
+                    "cancer_type": "Skin Cancer",
+                    "title": "Prevention Clinical Trials for Non-Melanoma Skin Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/skin-cancer/prevention",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/skin-cancer/prevention#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

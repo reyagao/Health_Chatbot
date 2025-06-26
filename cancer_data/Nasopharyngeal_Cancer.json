@@ -1,0 +1,423 @@
+{
+    "cancer_type": "Nasopharyngeal Cancer",
+    "title": "Head and Neck Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/head-and-neck",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Head and neck cancers include cancers in the larynx, throat, lips, mouth, nose, and salivary glands. Tobacco use, heavy alcohol use, and infection with human papillomavirus (HPV) increase the risk of head and neck cancers. Explore the links on this page to learn more about the different types of head and neck cancer and how they are treated. We also have information about prevention, screening, research, clinical trials, and more."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The Head and Neck Cancers fact sheet has additional basic information."
+        },
+        {
+            "section": "Paragraph",
+            "text": "Toripalimab Becomes First Immunotherapy Drug Approved for Nasopharyngeal Cancer"
+        },
+        {
+            "section": "Paragraph",
+            "text": "Study in India Could Make Immunotherapy More Affordable Worldwide"
+        },
+        {
+            "section": "Paragraph",
+            "text": "Treatments for Oropharyngeal Cancer Are Very Effective, But Are There Ways to Do Less Harm?"
+        },
+        {
+            "section": "Paragraph",
+            "text": "HPV Vaccine May Provide Men with “Herd Immunity” against Oral HPV Infections"
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-toripalimab-nasopharyngeal-cancer"
+    ],
+    "related_pages": {
+        "Toripalimab Becomes First Immunotherapy Drug Approved for Nasopharyngeal Cancer": {
+            "cancer_type": "Nasopharyngeal Cancer",
+            "title": "Toripalimab Becomes First Immunotherapy Drug Approved for Nasopharyngeal Cancer",
+            "url": "https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-toripalimab-nasopharyngeal-cancer",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "January 3, 2024, by Elia Ben-Ari"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Imaging scans of a person with a nasopharyngeal carcinoma that has come back (recurrent), highlighting the different radiation doses received during earlier treatment. Toripalimab is now the first drug approved by FDA to treat recurrent nasopharyngeal carcinoma."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "The Food and Drug Administration (FDA) has approved the first immunotherapy drug for the treatment of nasopharyngeal carcinoma (NPC), a type of head and neck cancer."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "The approval of toripalimab (Loqtorzi), announced on October 27, was based on results of two clinical trials conducted in Asia, where NPC is much more common than in most other parts of the world. Both trials were sponsored by Shanghai Junshi Biosciences, which developed the drug."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "FDA’s approval of the drug—the first approval of toripalimab in the United States—covers its use as an initial treatment for people with NPC that has come back (recurred) or spread to other parts of the body (metastatic). The approval also includes using toripalimab on its own for people with recurrent or metastatic NPC that has gotten worse on or after standard chemotherapy."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "The approval should immediately change the way that people with NPC are treated in this country, said Barbara Burtness, M.D., a head and neck cancer expert at Yale University who was not involved in the study."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "In one trial, people with recurrent or metastatic NPC were randomly assigned to receive standard chemotherapy with or without toripalimab. Patients treated with toripalimab and chemotherapy lived longer overall and lived longer without their cancer getting worse (progression-free survival) than those who received chemotherapy alone."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "In a smaller early-stage trial, researchers found that treatment with toripalimab alone shrank tumors or kept them from growing in some people with advanced NPC that had gotten worse despite previous treatment with standard chemotherapy."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "“Chemotherapy has … been the mainstay of treatment for people with more advanced NPC,” said head and neck cancer specialist Tanguy Seiwert, M.D., of Johns Hopkins University, who also was not involved in the study. “This approval gives us an additional tool” for treating the disease."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "“I am thrilled” that toripalimab has been approved for use in the United States, Dr. Seiwert added."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "NPC differs from other types of head and neck cancer in several ways, including its causes and the way it is treated. As a result, “patients with NPC are typically not included in clinical trials of head and neck cancer,” researchers wrote in their report of the trial of toripalimab plus chemotherapy."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Most cases of NPC are caused by infection with Epstein-Barr virus (EBV). Although most people in the world have been exposed to EBV, few develop NPC because additional risk factors play a role in whether cancer will develop."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "These risk factors include genetics and environmental factors such as drinking alcohol and smoking. As a result, NPC is much more common in certain parts of the world, including southern China and Southeast Asia, than in the United States and some other parts of the world, Dr. Seiwert explained. There are also clusters of NPC in the Arctic and parts of the Middle East and North Africa."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "If NPC is caught early enough, radiation and chemotherapy can often cure it, Dr. Seiwert said."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Unlike for other types of head and neck cancer, “surgery is not a good option for NPC because of its location in the skull, right behind the nose, where there are a lot of important structures,” he explained."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Researchers are studying whether less intense treatment can be safer but still effective."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "If NPC is diagnosed after it has already spread, or if it comes back after initial treatment, patients typically receive chemotherapy regimens that include cisplatin or other platinum drugs. Once the cancer has progressed after chemotherapy, there is no standard treatment."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Toripalimab is a type of immunotherapy called an immune checkpoint inhibitor. It targets a protein called PD-1 on certain immune cells, allowing them to better attack and kill cancer cells."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "The first trial results showing that adding toripalimab to chemotherapy was more effective than chemotherapy alone were published in August 2021. Not long after, because toripalimab was not yet approved for use in the United States, treatment guidelines from leading US cancer groups began including the option of using other immune checkpoint inhibitors that target PD-1, including pembrolizumab (Keytruda) and nivolumab (Opdivo), Dr. Burtness explained."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "But rigorous clinical trials of those drugs have not been done in people with NPC, so they are not approved by FDA for that use."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "“Now, we can use the right drug, which has been shown to provide clear improvement for patients in a large, randomized study, which is considered the highest level of evidence” that a treatment works, Dr. Seiwert said."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "“It is wonderful to see something that extends survival for these patients,” Dr. Burtness said."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "The early-phase clinical trial that tested toripalimab alone in people with advanced NPC, called POLARIS-02, was conducted in hospitals in China. The trial enrolled 172 people with advanced NPC that had spread or gotten worse following treatment with chemotherapy."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "In this trial, toripalimab, which is given as an infusion, shrank tumors in 21% of patients. The median length of time that people's tumors continued to respond without the cancer growing or spreading was almost 15 months."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "The other trial, called JUPITER-02 and conducted in China, Taiwan, and Singapore, enrolled 289 people with recurrent or metastatic NPC who had not yet received chemotherapy for their recurrent or metastatic disease."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "People in the toripalimab group received the drug along with chemotherapy for up to 6 months, followed by toripalimab alone as maintenance therapy until their cancer began to get worse. Those in the other group received chemotherapy for up to 6 months followed by placebo infusions."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Initial results from JUPITER-02 showed that people treated with toripalimab and chemotherapy lived for a median of 11.7 months without their cancer getting worse, compared with 8.0 months for those treated with chemotherapy only."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "In addition, final results from JUPITER-02, which were reported November 28 in JAMA and represented a median follow up of 36 months, showed that toripalimab extended overall survival as well as progression-free survival."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Two years after starting treatment, 78% of people in the toripalimab group were still alive, versus 65% in the chemotherapy-alone group. After 3 years, overall survival rates in the two groups were 64% and 49%, respectively."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Patients in the toripalimab group also had substantially better progression-free survival: a median of 21.4 months versus 8.2 months."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "In JUPITER-02, the overall rate of severe side effects, including low blood cell counts, was similar in the two groups. The most common side effects, including severe ones, were due mainly to chemotherapy."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Immune-related side effects, including inflammation of the lungs and colon, abnormal liver function, skin reactions, and hormone problems such as an underactive thyroid, were seen with toripalimab."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Side effects that were seen more often in the toripalimab group included an underactive thyroid, upper respiratory tract infections, and pneumonia."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Despite the heightened risk of immune-related side effects with toripalimab, immunotherapy “is generally well tolerated” by patients, Dr. Seiwert said."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "One cautionary note, Dr. Burtness said, is that “as with any immune checkpoint inhibitor, patients who have underlying autoimmune disorders can expect to have a higher risk” of immune-related side effects, including severe effects. In these patients, doctors may suggest starting with chemotherapy and then switching to toripalimab when the chemotherapy isn’t working anymore, she said."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Dr. Seiwert also noted that at least two more large, rigorous clinical trials of other PD-1−targeting immune checkpoint inhibitors that are not available in the United States have shown improved progression-free survival for people with advanced NPC when the drugs are added to chemotherapy."
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "But FDA’s approval of toripalimab as the first immune checkpoint inhibitor for treating NPC, he concluded, “is a true step forward.”"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "New on NCI’s Websites for December 2023"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "Enzalutamide Gets Added Approval for Prostate Cancer That Hasn’t Spread"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "If you would like to reproduce some or all of this content, see Reuse of NCI Information for guidance about copyright and permissions. In the case of permitted digital reproduction, please credit the National Cancer Institute as the source and link to the original NCI product using the original product's title; e.g., “Toripalimab Becomes First Immunotherapy Drug Approved for Nasopharyngeal Cancer was originally published by the National Cancer Institute.”"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "February 13, 2025, by Carmen Phillips"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "January 2, 2025, by Linda Wang"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "December 11, 2024, by Nadia Jaber"
+                },
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-toripalimab-nasopharyngeal-cancer#main-content",
+                "mailto:?subject=Information%20from%20the%20National%20Cancer%20Institute%20Web%20Site%20&body=I%20found%20this%20information%20on%20www.cancer.gov%20and%20I%27d%20like%20to%20share%20it%20with%20you:%20https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-toripalimab-nasopharyngeal-cancer%20%0D%0A%0D%0A%20NCI%27s%20Web%20site,%20www.cancer.gov,%20provides%20accurate,%20up-to-date,%20comprehensive%20cancer%20information%20from%20the%20U.S.%20government%27s%20principal%20agency%20for%20cancer%20research.%20If%20you%20have%20questions%20or%20need%20additional%20information,%20we%20invite%20you%20to%20contact%20NCI%27s%20LiveHelp%20instant%20messaging%20service%20at%20https://livehelp.cancer.gov,%20or%20call%20the%20NCI%27s%20Contact%20Center%201-800-4-CANCER%20(1-800-422-6237)%20(toll-free%20from%20the%20United%20States).",
+                "mailto:?subject=Information%20from%20the%20National%20Cancer%20Institute%20Web%20Site%20&body=I%20found%20this%20information%20on%20www.cancer.gov%20and%20I%27d%20like%20to%20share%20it%20with%20you:%20https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-toripalimab-nasopharyngeal-cancer%20%0D%0A%0D%0A%20NCI%27s%20Web%20site,%20www.cancer.gov,%20provides%20accurate,%20up-to-date,%20comprehensive%20cancer%20information%20from%20the%20U.S.%20government%27s%20principal%20agency%20for%20cancer%20research.%20If%20you%20have%20questions%20or%20need%20additional%20information,%20we%20invite%20you%20to%20contact%20NCI%27s%20LiveHelp%20instant%20messaging%20service%20at%20https://livehelp.cancer.gov,%20or%20call%20the%20NCI%27s%20Contact%20Center%201-800-4-CANCER%20(1-800-422-6237)%20(toll-free%20from%20the%20United%20States)."
+            ],
+            "related_pages": {
+                "Toripalimab Becomes First Immunotherapy Drug Approved for Nasopharyngeal Cancer": {
+                    "cancer_type": "Nasopharyngeal Cancer",
+                    "title": "Toripalimab Becomes First Immunotherapy Drug Approved for Nasopharyngeal Cancer",
+                    "url": "mailto:?subject=Information%20from%20the%20National%20Cancer%20Institute%20Web%20Site%20&body=I%20found%20this%20information%20on%20www.cancer.gov%20and%20I%27d%20like%20to%20share%20it%20with%20you:%20https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-toripalimab-nasopharyngeal-cancer%20%0D%0A%0D%0A%20NCI%27s%20Web%20site,%20www.cancer.gov,%20provides%20accurate,%20up-to-date,%20comprehensive%20cancer%20information%20from%20the%20U.S.%20government%27s%20principal%20agency%20for%20cancer%20research.%20If%20you%20have%20questions%20or%20need%20additional%20information,%20we%20invite%20you%20to%20contact%20NCI%27s%20LiveHelp%20instant%20messaging%20service%20at%20https://livehelp.cancer.gov,%20or%20call%20the%20NCI%27s%20Contact%20Center%201-800-4-CANCER%20(1-800-422-6237)%20(toll-free%20from%20the%20United%20States).",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "January 3, 2024, by Elia Ben-Ari"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Imaging scans of a person with a nasopharyngeal carcinoma that has come back (recurrent), highlighting the different radiation doses received during earlier treatment. Toripalimab is now the first drug approved by FDA to treat recurrent nasopharyngeal carcinoma."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "The Food and Drug Administration (FDA) has approved the first immunotherapy drug for the treatment of nasopharyngeal carcinoma (NPC), a type of head and neck cancer."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "The approval of toripalimab (Loqtorzi), announced on October 27, was based on results of two clinical trials conducted in Asia, where NPC is much more common than in most other parts of the world. Both trials were sponsored by Shanghai Junshi Biosciences, which developed the drug."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "FDA’s approval of the drug—the first approval of toripalimab in the United States—covers its use as an initial treatment for people with NPC that has come back (recurred) or spread to other parts of the body (metastatic). The approval also includes using toripalimab on its own for people with recurrent or metastatic NPC that has gotten worse on or after standard chemotherapy."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "The approval should immediately change the way that people with NPC are treated in this country, said Barbara Burtness, M.D., a head and neck cancer expert at Yale University who was not involved in the study."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "In one trial, people with recurrent or metastatic NPC were randomly assigned to receive standard chemotherapy with or without toripalimab. Patients treated with toripalimab and chemotherapy lived longer overall and lived longer without their cancer getting worse (progression-free survival) than those who received chemotherapy alone."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "In a smaller early-stage trial, researchers found that treatment with toripalimab alone shrank tumors or kept them from growing in some people with advanced NPC that had gotten worse despite previous treatment with standard chemotherapy."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "“Chemotherapy has … been the mainstay of treatment for people with more advanced NPC,” said head and neck cancer specialist Tanguy Seiwert, M.D., of Johns Hopkins University, who also was not involved in the study. “This approval gives us an additional tool” for treating the disease."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "“I am thrilled” that toripalimab has been approved for use in the United States, Dr. Seiwert added."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "NPC differs from other types of head and neck cancer in several ways, including its causes and the way it is treated. As a result, “patients with NPC are typically not included in clinical trials of head and neck cancer,” researchers wrote in their report of the trial of toripalimab plus chemotherapy."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Most cases of NPC are caused by infection with Epstein-Barr virus (EBV). Although most people in the world have been exposed to EBV, few develop NPC because additional risk factors play a role in whether cancer will develop."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "These risk factors include genetics and environmental factors such as drinking alcohol and smoking. As a result, NPC is much more common in certain parts of the world, including southern China and Southeast Asia, than in the United States and some other parts of the world, Dr. Seiwert explained. There are also clusters of NPC in the Arctic and parts of the Middle East and North Africa."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "If NPC is caught early enough, radiation and chemotherapy can often cure it, Dr. Seiwert said."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Unlike for other types of head and neck cancer, “surgery is not a good option for NPC because of its location in the skull, right behind the nose, where there are a lot of important structures,” he explained."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Researchers are studying whether less intense treatment can be safer but still effective."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "If NPC is diagnosed after it has already spread, or if it comes back after initial treatment, patients typically receive chemotherapy regimens that include cisplatin or other platinum drugs. Once the cancer has progressed after chemotherapy, there is no standard treatment."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Toripalimab is a type of immunotherapy called an immune checkpoint inhibitor. It targets a protein called PD-1 on certain immune cells, allowing them to better attack and kill cancer cells."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "The first trial results showing that adding toripalimab to chemotherapy was more effective than chemotherapy alone were published in August 2021. Not long after, because toripalimab was not yet approved for use in the United States, treatment guidelines from leading US cancer groups began including the option of using other immune checkpoint inhibitors that target PD-1, including pembrolizumab (Keytruda) and nivolumab (Opdivo), Dr. Burtness explained."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "But rigorous clinical trials of those drugs have not been done in people with NPC, so they are not approved by FDA for that use."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "“Now, we can use the right drug, which has been shown to provide clear improvement for patients in a large, randomized study, which is considered the highest level of evidence” that a treatment works, Dr. Seiwert said."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "“It is wonderful to see something that extends survival for these patients,” Dr. Burtness said."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "The early-phase clinical trial that tested toripalimab alone in people with advanced NPC, called POLARIS-02, was conducted in hospitals in China. The trial enrolled 172 people with advanced NPC that had spread or gotten worse following treatment with chemotherapy."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "In this trial, toripalimab, which is given as an infusion, shrank tumors in 21% of patients. The median length of time that people's tumors continued to respond without the cancer growing or spreading was almost 15 months."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "The other trial, called JUPITER-02 and conducted in China, Taiwan, and Singapore, enrolled 289 people with recurrent or metastatic NPC who had not yet received chemotherapy for their recurrent or metastatic disease."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "People in the toripalimab group received the drug along with chemotherapy for up to 6 months, followed by toripalimab alone as maintenance therapy until their cancer began to get worse. Those in the other group received chemotherapy for up to 6 months followed by placebo infusions."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Initial results from JUPITER-02 showed that people treated with toripalimab and chemotherapy lived for a median of 11.7 months without their cancer getting worse, compared with 8.0 months for those treated with chemotherapy only."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "In addition, final results from JUPITER-02, which were reported November 28 in JAMA and represented a median follow up of 36 months, showed that toripalimab extended overall survival as well as progression-free survival."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Two years after starting treatment, 78% of people in the toripalimab group were still alive, versus 65% in the chemotherapy-alone group. After 3 years, overall survival rates in the two groups were 64% and 49%, respectively."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Patients in the toripalimab group also had substantially better progression-free survival: a median of 21.4 months versus 8.2 months."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "In JUPITER-02, the overall rate of severe side effects, including low blood cell counts, was similar in the two groups. The most common side effects, including severe ones, were due mainly to chemotherapy."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Immune-related side effects, including inflammation of the lungs and colon, abnormal liver function, skin reactions, and hormone problems such as an underactive thyroid, were seen with toripalimab."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Side effects that were seen more often in the toripalimab group included an underactive thyroid, upper respiratory tract infections, and pneumonia."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Despite the heightened risk of immune-related side effects with toripalimab, immunotherapy “is generally well tolerated” by patients, Dr. Seiwert said."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "One cautionary note, Dr. Burtness said, is that “as with any immune checkpoint inhibitor, patients who have underlying autoimmune disorders can expect to have a higher risk” of immune-related side effects, including severe effects. In these patients, doctors may suggest starting with chemotherapy and then switching to toripalimab when the chemotherapy isn’t working anymore, she said."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Dr. Seiwert also noted that at least two more large, rigorous clinical trials of other PD-1−targeting immune checkpoint inhibitors that are not available in the United States have shown improved progression-free survival for people with advanced NPC when the drugs are added to chemotherapy."
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "But FDA’s approval of toripalimab as the first immune checkpoint inhibitor for treating NPC, he concluded, “is a true step forward.”"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "New on NCI’s Websites for December 2023"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "Enzalutamide Gets Added Approval for Prostate Cancer That Hasn’t Spread"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "If you would like to reproduce some or all of this content, see Reuse of NCI Information for guidance about copyright and permissions. In the case of permitted digital reproduction, please credit the National Cancer Institute as the source and link to the original NCI product using the original product's title; e.g., “Toripalimab Becomes First Immunotherapy Drug Approved for Nasopharyngeal Cancer was originally published by the National Cancer Institute.”"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "February 13, 2025, by Carmen Phillips"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "January 2, 2025, by Linda Wang"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "December 11, 2024, by Nadia Jaber"
+                        },
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-toripalimab-nasopharyngeal-cancer#main-content",
+                        "mailto:?subject=Information%20from%20the%20National%20Cancer%20Institute%20Web%20Site%20&body=I%20found%20this%20information%20on%20www.cancer.gov%20and%20I%27d%20like%20to%20share%20it%20with%20you:%20https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-toripalimab-nasopharyngeal-cancer%20%0D%0A%0D%0A%20NCI%27s%20Web%20site,%20www.cancer.gov,%20provides%20accurate,%20up-to-date,%20comprehensive%20cancer%20information%20from%20the%20U.S.%20government%27s%20principal%20agency%20for%20cancer%20research.%20If%20you%20have%20questions%20or%20need%20additional%20information,%20we%20invite%20you%20to%20contact%20NCI%27s%20LiveHelp%20instant%20messaging%20service%20at%20https://livehelp.cancer.gov,%20or%20call%20the%20NCI%27s%20Contact%20Center%201-800-4-CANCER%20(1-800-422-6237)%20(toll-free%20from%20the%20United%20States).",
+                        "mailto:?subject=Information%20from%20the%20National%20Cancer%20Institute%20Web%20Site%20&body=I%20found%20this%20information%20on%20www.cancer.gov%20and%20I%27d%20like%20to%20share%20it%20with%20you:%20https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-toripalimab-nasopharyngeal-cancer%20%0D%0A%0D%0A%20NCI%27s%20Web%20site,%20www.cancer.gov,%20provides%20accurate,%20up-to-date,%20comprehensive%20cancer%20information%20from%20the%20U.S.%20government%27s%20principal%20agency%20for%20cancer%20research.%20If%20you%20have%20questions%20or%20need%20additional%20information,%20we%20invite%20you%20to%20contact%20NCI%27s%20LiveHelp%20instant%20messaging%20service%20at%20https://livehelp.cancer.gov,%20or%20call%20the%20NCI%27s%20Contact%20Center%201-800-4-CANCER%20(1-800-422-6237)%20(toll-free%20from%20the%20United%20States)."
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

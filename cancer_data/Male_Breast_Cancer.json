@@ -1,0 +1,21 @@
+{
+    "cancer_type": "Male Breast Cancer",
+    "title": "Breast Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/breast",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Breast cancer is the second most common cancer in women after skin cancer. Mammograms can detect breast cancer early, possibly before it has spread. Explore the links on this page to learn more about breast cancer prevention, screening, treatment, statistics, research, clinical trials, and more."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [],
+    "related_pages": {}
+}

@@ -1,0 +1,55 @@
+{
+    "cancer_type": "Colorectal Cancer",
+    "title": "Colorectal Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/colorectal",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Colorectal cancer often begins as a growth called a polyp inside the colon or rectum. Finding and removing polyps can prevent colorectal cancer. Explore the links on this page to learn more about colorectal cancer prevention, screening, treatment, statistics, research, clinical trials, and more."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/colorectal-cancer/screening"
+    ],
+    "related_pages": {
+        "Screening Clinical Trials for Colorectal Cancer": {
+            "cancer_type": "Colorectal Cancer",
+            "title": "Screening Clinical Trials for Colorectal Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/colorectal-cancer/screening",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/colorectal-cancer/screening#main-content"
+            ],
+            "related_pages": {
+                "Screening Clinical Trials for Colorectal Cancer": {
+                    "cancer_type": "Colorectal Cancer",
+                    "title": "Screening Clinical Trials for Colorectal Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/colorectal-cancer/screening",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/colorectal-cancer/screening#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

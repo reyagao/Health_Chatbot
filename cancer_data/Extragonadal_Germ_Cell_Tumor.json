@@ -1,0 +1,55 @@
+{
+    "cancer_type": "Extragonadal Germ Cell Tumor",
+    "title": "Extragonadal Germ Cell Tumors—Patient Version",
+    "url": "https://www.cancer.gov/types/extragonadal-germ-cell",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Extragonadal germ cell tumors develop from germ cells (fetal cells that give rise to sperm and eggs). Extragonadal germ cell tumors form outside the gonads (testicles and ovaries). Explore the links on this page to learn more about extragonadal germ cell tumors, how they are treated, and clinical trials that are available."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/extragonadal-germ-cell-tumors/treatment"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Extragonadal Germ Cell Tumor": {
+            "cancer_type": "Extragonadal Germ Cell Tumor",
+            "title": "Treatment Clinical Trials for Extragonadal Germ Cell Tumor",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/extragonadal-germ-cell-tumors/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/extragonadal-germ-cell-tumors/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Extragonadal Germ Cell Tumor": {
+                    "cancer_type": "Extragonadal Germ Cell Tumor",
+                    "title": "Treatment Clinical Trials for Extragonadal Germ Cell Tumor",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/extragonadal-germ-cell-tumors/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/extragonadal-germ-cell-tumors/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

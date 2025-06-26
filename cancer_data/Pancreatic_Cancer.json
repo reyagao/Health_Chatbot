@@ -1,0 +1,63 @@
+{
+    "cancer_type": "Pancreatic Cancer",
+    "title": "Pancreatic Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/pancreatic",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Pancreatic cancer can develop from two kinds of cells in the pancreas: exocrine cells and neuroendocrine cells, such as islet cells. The exocrine type is more common and is usually found at an advanced stage. Pancreatic neuroendocrine tumors (islet cell tumors) are less common but have a better prognosis. Explore the links on this page to learn more about  pancreatic cancer treatment, statistics, research, and clinical trials."
+        },
+        {
+            "section": "Paragraph",
+            "text": "NCI does not have PDQ evidence-based information about prevention of pancreatic cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "NCI does not have PDQ evidence-based information about screening for pancreatic cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/pancreatic-cancer/treatment"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Pancreatic Cancer": {
+            "cancer_type": "Pancreatic Cancer",
+            "title": "Treatment Clinical Trials for Pancreatic Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/pancreatic-cancer/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/pancreatic-cancer/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Pancreatic Cancer": {
+                    "cancer_type": "Pancreatic Cancer",
+                    "title": "Treatment Clinical Trials for Pancreatic Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/pancreatic-cancer/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/pancreatic-cancer/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

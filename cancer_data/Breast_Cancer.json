@@ -1,0 +1,119 @@
+{
+    "cancer_type": "Breast Cancer",
+    "title": "Breast Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/breast",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Breast cancer is the second most common cancer in women after skin cancer. Mammograms can detect breast cancer early, possibly before it has spread. Explore the links on this page to learn more about breast cancer prevention, screening, treatment, statistics, research, clinical trials, and more."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/breast-cancer/treatment",
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/breast-cancer/prevention",
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/breast-cancer/screening"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Breast Cancer": {
+            "cancer_type": "Breast Cancer",
+            "title": "Treatment Clinical Trials for Breast Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/breast-cancer/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/breast-cancer/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Breast Cancer": {
+                    "cancer_type": "Breast Cancer",
+                    "title": "Treatment Clinical Trials for Breast Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/breast-cancer/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/breast-cancer/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        },
+        "Prevention Clinical Trials for Breast Cancer": {
+            "cancer_type": "Breast Cancer",
+            "title": "Prevention Clinical Trials for Breast Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/breast-cancer/prevention",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/breast-cancer/prevention#main-content"
+            ],
+            "related_pages": {
+                "Prevention Clinical Trials for Breast Cancer": {
+                    "cancer_type": "Breast Cancer",
+                    "title": "Prevention Clinical Trials for Breast Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/breast-cancer/prevention",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/breast-cancer/prevention#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        },
+        "Screening Clinical Trials for Breast Cancer": {
+            "cancer_type": "Breast Cancer",
+            "title": "Screening Clinical Trials for Breast Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/breast-cancer/screening",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/breast-cancer/screening#main-content"
+            ],
+            "related_pages": {
+                "Screening Clinical Trials for Breast Cancer": {
+                    "cancer_type": "Breast Cancer",
+                    "title": "Screening Clinical Trials for Breast Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/breast-cancer/screening",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/breast-cancer/screening#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

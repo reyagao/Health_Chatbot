@@ -1,0 +1,119 @@
+{
+    "cancer_type": "Lung Cancer",
+    "title": "Lung Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/lung",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Lung cancer includes two main types: non-small cell lung cancer and small cell lung cancer. Smoking causes most lung cancers, but nonsmokers can also develop lung cancer. Explore the links on this page to learn more about lung cancer treatment, prevention, screening, statistics, research, clinical trials, and more."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/small-cell-lung-cancer/treatment",
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/small-cell-lung-cancer/prevention",
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/small-cell-lung-cancer/screening"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Small Cell Lung Cancer": {
+            "cancer_type": "Lung Cancer",
+            "title": "Treatment Clinical Trials for Small Cell Lung Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/small-cell-lung-cancer/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/small-cell-lung-cancer/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Small Cell Lung Cancer": {
+                    "cancer_type": "Lung Cancer",
+                    "title": "Treatment Clinical Trials for Small Cell Lung Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/small-cell-lung-cancer/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/small-cell-lung-cancer/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        },
+        "Prevention Clinical Trials for Small Cell Lung Cancer": {
+            "cancer_type": "Lung Cancer",
+            "title": "Prevention Clinical Trials for Small Cell Lung Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/small-cell-lung-cancer/prevention",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/small-cell-lung-cancer/prevention#main-content"
+            ],
+            "related_pages": {
+                "Prevention Clinical Trials for Small Cell Lung Cancer": {
+                    "cancer_type": "Lung Cancer",
+                    "title": "Prevention Clinical Trials for Small Cell Lung Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/small-cell-lung-cancer/prevention",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/small-cell-lung-cancer/prevention#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        },
+        "Screening Clinical Trials for Small Cell Lung Cancer": {
+            "cancer_type": "Lung Cancer",
+            "title": "Screening Clinical Trials for Small Cell Lung Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/small-cell-lung-cancer/screening",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/small-cell-lung-cancer/screening#main-content"
+            ],
+            "related_pages": {
+                "Screening Clinical Trials for Small Cell Lung Cancer": {
+                    "cancer_type": "Lung Cancer",
+                    "title": "Screening Clinical Trials for Small Cell Lung Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/small-cell-lung-cancer/screening",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/small-cell-lung-cancer/screening#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}

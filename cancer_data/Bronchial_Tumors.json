@@ -1,0 +1,21 @@
+{
+    "cancer_type": "Bronchial Tumors",
+    "title": "Lung Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/lung",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Lung cancer includes two main types: non-small cell lung cancer and small cell lung cancer. Smoking causes most lung cancers, but nonsmokers can also develop lung cancer. Explore the links on this page to learn more about lung cancer treatment, prevention, screening, statistics, research, clinical trials, and more."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [],
+    "related_pages": {}
+}

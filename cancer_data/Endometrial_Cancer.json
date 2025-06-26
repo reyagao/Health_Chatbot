@@ -1,0 +1,55 @@
+{
+    "cancer_type": "Endometrial Cancer",
+    "title": "Uterine Cancer—Patient Version",
+    "url": "https://www.cancer.gov/types/uterine",
+    "content": [
+        {
+            "section": "Paragraph",
+            "text": "Uterine cancers can be of two types: endometrial cancer (common) and uterine sarcoma (rare). Endometrial cancer can often be cured. Uterine sarcoma is often more aggressive and harder to treat. Explore the links on this page to learn more about uterine cancer prevention, screening, treatment, statistics, research, and clinical trials."
+        },
+        {
+            "section": "Paragraph",
+            "text": "The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer."
+        },
+        {
+            "section": "Paragraph",
+            "text": "National Cancer Institute\nat the National Institutes of Health"
+        }
+    ],
+    "related_links": [
+        "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/endometrial-cancer/treatment"
+    ],
+    "related_pages": {
+        "Treatment Clinical Trials for Endometrial Cancer": {
+            "cancer_type": "Endometrial Cancer",
+            "title": "Treatment Clinical Trials for Endometrial Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/endometrial-cancer/treatment",
+            "content": [
+                {
+                    "section": "Paragraph",
+                    "text": "National Cancer Institute\nat the National Institutes of Health"
+                }
+            ],
+            "related_links": [
+                "https://www.cancer.gov/research/participate/clinical-trials/disease/endometrial-cancer/treatment#main-content"
+            ],
+            "related_pages": {
+                "Treatment Clinical Trials for Endometrial Cancer": {
+                    "cancer_type": "Endometrial Cancer",
+                    "title": "Treatment Clinical Trials for Endometrial Cancer",
+                    "url": "https://www.cancer.gov/research/participate/clinical-trials/disease/endometrial-cancer/treatment",
+                    "content": [
+                        {
+                            "section": "Paragraph",
+                            "text": "National Cancer Institute\nat the National Institutes of Health"
+                        }
+                    ],
+                    "related_links": [
+                        "https://www.cancer.gov/research/participate/clinical-trials/disease/endometrial-cancer/treatment#main-content"
+                    ],
+                    "related_pages": {}
+                }
+            }
+        }
+    }
+}
